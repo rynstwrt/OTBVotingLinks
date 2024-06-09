@@ -16,5 +16,5 @@
         "service_worker": "service-worker.js"
     },
     "host_permissions": ["*://pastebin.com/*"],
-    "permissions": ["activeTab", "scripting"]
+    "permissions": []
 }
